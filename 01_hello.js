@@ -1,8 +1,6 @@
-// NODEJS -> RUNTIME ENV FOR JS 
-// FOR SERVER SIDE JS
 
-// NPM INIT -> INITIALIZE PACKAGE.JSON
+const math = require('./02.js');
+// const {add, sub} = require('./02');
 
-// PACKAGE.JSON -> CONFIG FILE FOR NODEJS PROJECT
-
-console.log("Hello World");
+console.log(math.add(1,2));
+console.log(math.sub(1,2));
