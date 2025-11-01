@@ -1,11 +1,9 @@
 
 # Quick-Points
-NODEJS -> RUNTIME ENV FOR JS 
-          FOR SERVER SIDE JS
+NODEJS -> runtime env for js / for server side js
 
-NPM INIT -> INITIALIZE PACKAGE.JSON
+NPM INIT -> initialize package.json
 
-PACKAGE.JSON -> CONFIGURATION FILE FOR NODEJS PROJECT 
+PACKAGE.JSON -> configuration file for node projects
 
-MODULES -> similar to packages in java, #import in c/cpp
-           "require()" in Nodejs
+MODULES -> similar to packages in java, #import in c/cpp / "require()" in Nodejs
