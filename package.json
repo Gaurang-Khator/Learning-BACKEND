@@ -1,0 +1,12 @@
+{
+  "name": "learning-backend",
+  "version": "1.0.0",
+  "description": "A personal repository to document my backend development journey. Contains practice projects, examples, and code snippets built while learning Node.js, Express.js, and MongoDB.",
+  "main": "01_hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node 01_hello.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
